@@ -1,7 +1,5 @@
 ---
 
-# 📌 README.md
-
 ````markdown
 # User Management Dashboard (Full Stack Assignment - Forty4 Tech)
 
