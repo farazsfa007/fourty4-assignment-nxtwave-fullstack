@@ -70,7 +70,7 @@ git clone [https://github.com/farazsfa007/fourty4-assignment-nxtwave-fullstack.g
 # Clone the backend repository
 git clone [https://github.com/farazsfa007/fourty4-assignment-nxtwave-backend.git](https://github.com/farazsfa007/fourty4-assignment-nxtwave-backend.git)
 
-```bash
+
 ### 2. Backend Setup
 # Navigate to the backend directory
 cd fourty4-assignment-nxtwave-backend
@@ -81,6 +81,5 @@ npm install
 # Create a .env file
 touch .env
 
-```bash
 # Start the development server
 npm run dev
