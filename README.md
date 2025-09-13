@@ -49,7 +49,7 @@ A full-stack application built as part of the **Fourty4 Tech Assignment**. This 
 | :------------ | :-------------------------------------------- |
 | **Backend** | Node.js, Express, MongoDB, Mongoose, Joi      |
 | **Frontend** | React (Vite), React Router, Axios, TailwindCSS|
-| **Deployment**| Netlify (Frontend), Render/Heroku (Backend)   |
+| **Deployment**| Netlify (Frontend), Render (Backend)   |
 
 ---
 
